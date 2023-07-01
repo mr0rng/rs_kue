@@ -2,6 +2,11 @@
 name = "kue"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Kue is a job queue backed by pg/memory/redis"
+homepage = "https://github.com/mr0rng/rs_kue"
+repository = "https://github.com/mr0rng/rs_kue"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
